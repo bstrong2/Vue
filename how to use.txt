@@ -1,0 +1,21 @@
+--This makes the dist folder so you can install the code onto a server:
+npm run build
+
+--serve the dist folder
+npm i -g serve
+
+--Run everything in the dist folder
+serve -s dist
+
+--Install json server (only need to do this once)
+npm i json-server
+
+--Install latest version of the router
+npm i vue-router@next
+
+
+--Run the json server
+npm run backend
+
+--Start the server for testing
+npm run serve
