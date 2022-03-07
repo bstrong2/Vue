@@ -4,13 +4,19 @@
       "id": 3,
       "text": "Food Shooping",
       "day": "March 3rd at 11:00am",
-      "reminder": false
+      "reminder": true
     },
     {
       "text": "Test",
       "day": "test ",
-      "reminder": true,
+      "reminder": false,
       "id": 4
+    },
+    {
+      "text": "Test",
+      "day": "hgiugiy",
+      "reminder": false,
+      "id": 5
     }
   ]
 }
