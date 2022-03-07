@@ -13,9 +13,21 @@ npm i json-server
 --Install latest version of the router
 npm i vue-router@next
 
+--To get to a server directory from the cmd use:
+pushd \\hoth\strongbj$
+
+--To return to your normal directory use:
+popd
+
+--If getting errors when running serve then run:
+npm i
+If that doesn't work then make sure to delete node_modules and try again
+
+
 
 --Run the json server
 npm run backend
 
 --Start the server for testing
 npm run serve
+
